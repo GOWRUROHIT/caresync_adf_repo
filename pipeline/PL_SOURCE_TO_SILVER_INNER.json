@@ -128,7 +128,7 @@
 					{
 						"activity": "Source to Landing Ingestion",
 						"dependencyConditions": [
-							"Succeeded"
+							"Completed"
 						]
 					}
 				],
@@ -169,7 +169,7 @@
 					{
 						"activity": "Landing to Bronze",
 						"dependencyConditions": [
-							"Succeeded"
+							"Completed"
 						]
 					}
 				],
