@@ -100,7 +100,7 @@
 					{
 						"activity": "Landing to Bronze",
 						"dependencyConditions": [
-							"Completed"
+							"Succeeded"
 						]
 					}
 				],
