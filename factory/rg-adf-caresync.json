@@ -1,0 +1,12 @@
+{
+	"name": "rg-adf-caresync",
+	"properties": {
+		"globalParameters": {
+			"email_receipent": {
+				"type": "string",
+				"value": "gowrurohit@gmail.com"
+			}
+		}
+	},
+	"location": "centralindia"
+}
